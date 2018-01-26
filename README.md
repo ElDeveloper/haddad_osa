@@ -1,4 +1,4 @@
-# Studying the Effects of Obstructive sleep apnea on the gut ecosystem
+# Studying the effects of obstructive sleep apnea on the gut ecosystem
 
 Background: Obstructive sleep apnea (OSA) is a common disorder characterized by episodic obstruction to breathing due to upper airway collapse during sleep. OSA has been associated with adverse cardiovascular  and metabolic outcomes,  although data regarding potential causal pathways are still evolving. 
 
